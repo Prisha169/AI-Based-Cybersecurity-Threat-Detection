@@ -1,4 +1,4 @@
-# Threat Detection in Cyber Security Using AI
+# Cybersecurity Threat Detection using AI/ML
 
 ## Overview
 
@@ -33,3 +33,15 @@ The "Threat Detection in Cyber Security Using AI" project aims to develop a thre
 
 You can access the CIC-IDS2017 dataset [here](https://www.unb.ca/cic/datasets/ids-2017.html).
 
+## Features
+- Detects and classifies cyber threats using Machine Learning
+- Handles imbalanced attack datasets using under-sampling
+- Performs feature selection to improve model performance
+- Evaluates multiple ML algorithms for best accuracy
+- Provides structured threat analysis pipeline
+
+ ## Workflow
+Data Preprocessing → Attack Data Filtering → Feature Selection → Model Training → Evaluation
+
+## Output
+The system classifies network activity as normal or malicious and evaluates the severity of detected threats based on model predictions.
